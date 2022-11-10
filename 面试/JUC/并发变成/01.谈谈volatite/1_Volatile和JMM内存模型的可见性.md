@@ -1,4 +1,4 @@
-@[TOC](陈)
+[谈谈对volatile的理解](#谈谈对volatile的理解)
 
 
 # 谈谈对volatile的理解
